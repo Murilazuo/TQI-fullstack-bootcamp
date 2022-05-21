@@ -1,0 +1,14 @@
+body {
+    color: gray;
+    font-family: sans-serif;
+}
+
+.content{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+#currentNumber{
+    font-size: 50px;
+}
